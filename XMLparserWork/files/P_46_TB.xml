@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE>
+    <METADATA>
+        <NAME>P_46_TB</NAME>
+        <COL>P_ID</COL>
+        <COL>PROJECT_NAME</COL>
+        <COL>LICENSE_ID</COL>
+        <COL>LICENSE_NAME</COL>
+        <COL>LICENSE_DISPLAY</COL>
+        <COL>SIZE</COL>
+        <COL>TOPIC_CD</COL>
+        <COL>TOPIC_NAME</COL>
+    </METADATA>
+    <ROWS>
+        <ROW>
+            <P_ID/>
+            <PROJECT_NAME/>
+            <LICENSE_ID/>
+            <LICENSE_NAME/>
+            <LICENSE_DISPLAY/>
+            <SIZE>2</SIZE>
+            <TOPIC_CD/>
+            <TOPIC_NAME/>
+        </ROW>
+        <ROW>
+            <P_ID>22115</P_ID>
+            <PROJECT_NAME/>
+            <LICENSE_ID>1058</LICENSE_ID>
+            <LICENSE_NAME/>
+            <LICENSE_DISPLAY/>
+            <SIZE>3</SIZE>
+            <TOPIC_CD>020036|020111|020153|020158</TOPIC_CD>
+            <TOPIC_NAME/>
+        </ROW>
+        <ROW>
+            <P_ID>219431</P_ID>
+            <PROJECT_NAME/>
+            <LICENSE_ID/>
+            <LICENSE_NAME/>
+            <LICENSE_DISPLAY/>
+            <SIZE>3</SIZE>
+            <TOPIC_CD/>
+            <TOPIC_NAME/>
+        </ROW>
+    </ROWS>
+</TABLE>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE>
+    <METADATA>
+        <NAME>F_22_TB</NAME>
+        <COL>ROWID</COL>
+        <COL>VOLUME</COL>
+        <COL>FILE_NAME</COL>
+        <COL>RELEASE_NAME</COL>
+        <COL>SIMILAR_RATE</COL>
+        <COL>FILE_PATH</COL>
+        <COL>P_ID</COL>
+        <COL>EXCLUSION</COL>
+        <COL>COMMENT</COL>
+    </METADATA>
+    <ROWS>
+        <ROW>
+            <ROWID>102021227</ROWID>
+            <VOLUME>v_04</VOLUME>
+            <FILE_NAME/>
+            <RELEASE_NAME/>
+            <SIMILAR_RATE>1087</SIMILAR_RATE>
+            <FILE_PATH/>
+            <P_ID>223889</P_ID>
+            <EXCLUSION>YES</EXCLUSION>
+            <COMMENT/>
+        </ROW>
+    </ROWS>
+</TABLE>

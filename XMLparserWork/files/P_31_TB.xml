@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE>
+    <METADATA>
+        <NAME>P_31_TB</NAME>
+        <COL>P_ID</COL>
+        <COL>PROJECT_NAME</COL>
+        <COL>LICENSE_ID</COL>
+        <COL>LICENSE_NAME</COL>
+        <COL>LICENSE_DISPLAY</COL>
+        <COL>SIZE</COL>
+        <COL>TOPIC_CD</COL>
+        <COL>TOPIC_NAME</COL>
+    </METADATA>
+    <ROWS/>
+</TABLE>

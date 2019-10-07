@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE>
+    <METADATA>
+        <NAME>F_85_TB</NAME>
+        <COL>ROWID</COL>
+        <COL>VOLUME</COL>
+        <COL>FILE_NAME</COL>
+        <COL>RELEASE_NAME</COL>
+        <COL>SIMILAR_RATE</COL>
+        <COL>FILE_PATH</COL>
+        <COL>P_ID</COL>
+        <COL>EXCLUSION</COL>
+        <COL>COMMENT</COL>
+    </METADATA>
+    <ROWS/>
+</TABLE>

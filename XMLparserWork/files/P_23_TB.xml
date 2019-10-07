@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TABLE>
+    <METADATA>
+        <NAME>P_23_TB</NAME>
+        <COL>P_ID</COL>
+        <COL>PROJECT_NAME</COL>
+        <COL>LICENSE_ID</COL>
+        <COL>LICENSE_NAME</COL>
+        <COL>LICENSE_DISPLAY</COL>
+        <COL>SIZE</COL>
+        <COL>TOPIC_CD</COL>
+        <COL>TOPIC_NAME</COL>
+    </METADATA>
+    <ROWS>
+        <ROW>
+            <P_ID>35822</P_ID>
+            <PROJECT_NAME/>
+            <LICENSE_ID/>
+            <LICENSE_NAME/>
+            <LICENSE_DISPLAY/>
+            <SIZE>1</SIZE>
+            <TOPIC_CD/>
+            <TOPIC_NAME/>
+        </ROW>
+        <ROW>
+            <P_ID>253471</P_ID>
+            <PROJECT_NAME/>
+            <LICENSE_ID>1003,1092,1093</LICENSE_ID>
+            <LICENSE_NAME/>
+            <LICENSE_DISPLAY/>
+            <SIZE>6</SIZE>
+            <TOPIC_CD>020154</TOPIC_CD>
+            <TOPIC_NAME/>
+        </ROW>
+    </ROWS>
+</TABLE>
